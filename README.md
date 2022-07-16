@@ -2,8 +2,8 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-Sample website with plent of files for demonstrating git 
-practices. t
+Sample website with plenty of files for demonstrating git 
+practices. 
 
 ## Purpose
 As stated above, the main purpose of this project is to provide
