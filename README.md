@@ -15,6 +15,8 @@ This is a simple web project, deployment can be on any web server.
 ## How to contribute
 Make changes, push to repo then create pull request.
 
+### Copyright
+2022 Joe Bloggs Consultants
 
 Contact: webmaster@anexample.co.uk
 
